@@ -1,0 +1,82 @@
+
+Video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: auto;
+    z-index: -1;
+}
+
+.content {
+position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+  background-color:black;
+  border: 5px solid black;
+  padding-left:8px;
+  padding-bottom: 8px;
+}
+
+.text2 {
+  text-decoration-line: underline;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.type-in {
+  border: 2px solid black;
+  margin: 21px auto;
+}
+
+.form-title {
+  font-size: 22px;
+  text-decoration-line: underline;
+}
+
+.log-in {
+  text-decoration-line: underline;
+}
+
+.blue {
+  font-size: 23px;
+}
+
+.logo {
+  position: absolute;
+  top: 30%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  font-size: 10px;
+  color: white;
+  
+
+}
+
+.side-picture {
+  position: absolute;
+  width: 700px;
+  height: 550px;
+  top:50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+}
+
+
+.it {
+  position: absolute;
+  top: 50%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  font-size: 10px;
+  color: white;
+}
